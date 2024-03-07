@@ -265,6 +265,11 @@ margin-bottom: 8px;
 /* -----PORTFOLIO----- */
 
 .portfolio {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.portfolio-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -272,6 +277,8 @@ margin-bottom: 8px;
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
+    max-width: 163px;
+    margin: 0 auto;
     margin-bottom: 72px;
 }
 
