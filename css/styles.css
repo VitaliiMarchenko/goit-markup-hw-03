@@ -265,8 +265,8 @@ margin-bottom: 8px;
 /* -----PORTFOLIO----- */
 
 .portfolio {
-    padding-top: 120px;
-    padding-bottom: 120px;
+padding-top: 120px;
+padding-bottom: 120px;
 }
 
 .portfolio-title {
@@ -296,6 +296,7 @@ margin-bottom: 8px;
 
 .potrfolio-blok {
     border: 1px solid #e7e9fc;
+    border-top: none;
     padding: 32px 16px;
     display: flex;
     align-items: flex-start;
