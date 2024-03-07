@@ -292,11 +292,12 @@ padding-bottom: 120px;
     width: calc((100% - 2*24px) / 3);
     border: 1px solid #e7e9fc;
     padding: 32px 16px;
+    border-top: none;
+
 }
 
 .potrfolio-blok {
     border: 1px solid #e7e9fc;
-    border-top: none;
     padding: 32px 16px;
     display: flex;
     align-items: flex-start;
